@@ -1,2 +1,47 @@
-flask
-nltk
+alembic==0.9.9
+blinker==1.4
+certifi==2021.5.30
+chardet==3.0.4
+click @ file:///D:/bld/click_1621503904640/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+Flask==1.0.2
+Flask-Dance==0.14.0
+Flask-DebugToolbar==0.10.1
+Flask-Login==0.4.1
+Flask-Migrate==2.1.1
+Flask-OAuth==0.12
+Flask-OAuthlib==0.9.4
+Flask-SQLAlchemy==2.3.2
+Flask-WTF==0.14.2
+httplib2==0.11.3
+idna==2.6
+itsdangerous==0.24
+Jinja2==2.10
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1612898609989/work
+lazy==1.3
+Mako==1.0.7
+MarkupSafe==1.1.1
+nltk @ file:///home/conda/feedstock_root/build_artifacts/nltk_1618932666659/work
+numpy @ file:///D:/bld/numpy_1622014749181/work
+oauth2==1.9.0.post1
+oauthlib==2.0.7
+pandas @ file:///D:/bld/pandas_1618263878420/work
+python-dateutil==2.8.1
+python-editor==1.0.3
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1612179539967/work
+regex @ file:///D:/bld/regex_1617644633358/work
+requests==2.18.4
+requests-oauthlib==0.8.0
+scikit-learn @ file:///D:/bld/scikit-learn_1619628870631/work
+scipy @ file:///C:/bld/scipy_1619562066759/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sklearn-pandas @ file:///home/conda/feedstock_root/build_artifacts/sklearn-pandas_1620483185865/work
+SQLAlchemy==1.2.6
+SQLAlchemy-Utils==0.33.2
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1621890532941/work
+urllib3==1.22
+URLObject==2.4.3
+Werkzeug==0.14.1
+wincertstore==0.2
+WTForms==2.1
